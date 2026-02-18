@@ -1,0 +1,11 @@
+labels,text,expr_emo,prob_expr_emo,prob_max
+joy,On days when I feel close to my partner and other friends. When I feel at peace with myself and also experience a close contact with people whom I regard greatly. ,joy,"[0.021107826, 0.0046738386, 0.0045469105, 0.023192031, 0.9541133, 0.0038786924, 0.054216437]",0.9541133
+fear,"Every time I imagine that someone I love or I could contact a serious illness, even death. ",fear,"[0.23796768, 0.2786844, 0.9917163, 0.6722993, 0.0009932077, 0.9769096, 0.17206854]",0.9917163
+anger,When I had been obviously unjustly treated and had no possibility of elucidating this. ,guilt,"[0.8849315, 0.6066327, 0.63236403, 0.89984876, 0.0011231627, 0.7050854, 0.6713254]",0.89984876
+sadness,When I think about the short time that we live and relate it to the periods of my life when I think that I did not use this short time. ,guilt,"[0.24776858, 0.35839996, 0.38478923, 0.9749141, 0.0021530678, 0.9474953, 0.9201679]",0.9749141
+disgust,At a gathering I found myself involuntarily sitting next to two people who expressed opinions that I considered very low and discriminating. ,disgust,"[0.78566414, 0.8812754, 0.7914127, 0.72595024, 0.0040019182, 0.6685211, 0.8264842]",0.8812754
+shame,When I realized that I was directing the feelings of discontent with myself at my partner and this way was trying to put the blame on him instead of sorting out my own feeliings. ,guilt,"[0.8126637, 0.7788066, 0.12257105, 0.9106013, 0.0012250013, 0.37118876, 0.6522502]",0.9106013
+guilt,I feel guilty when when I realize that I consider material things more important than caring for my relatives. I feel very self-centered. ,guilt,"[0.035358656, 0.047957864, 0.24677944, 0.9920521, 0.002681807, 0.2619549, 0.9808426]",0.9920521
+joy,After my girlfriend had taken her exam we went to her parent's place. ,guilt,"[0.31583947, 0.06457386, 0.3023981, 0.39489764, 0.2059348, 0.2786747, 0.1391379]",0.39489764
+fear,"When, for the first time I realized the meaning of death. ",sadness,"[0.088184245, 0.5155541, 0.86790115, 0.35181502, 0.0007942069, 0.9752396, 0.086384445]",0.9752396
+anger,When a car is overtaking another and I am forced to drive off the road. ,fear,"[0.8169708, 0.6223771, 0.97439224, 0.7844554, 0.014238004, 0.6800548, 0.39851594]",0.97439224
